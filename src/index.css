@@ -1,0 +1,25 @@
+.app-fixed-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+    background-color: white;
+    text-align: center;
+    height: 7vh;
+    padding: 1.5vh;
+    content-align: center;
+}
+
+.app-scrollable-body {
+    margin-bottom: 7vh;
+}
+
+.toc {
+    position: sticky !important;
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -ms-sticky;
+    position: -o-sticky;
+    top: 15px !important;
+    overflow-y: auto;
+}

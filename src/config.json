@@ -1,0 +1,5 @@
+{
+	"apiUrl": "http://localhost:3030",
+	"loginApiEndpoint": "/api/auth/user/login",
+	"registerApiEndpoint": "/api/auth/user/register"
+}
